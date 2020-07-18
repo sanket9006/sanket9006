@@ -17,8 +17,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=sanket9006.sanket9006)
-
 <br />
 
 Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India, currently, I'm a  Team Member 🙍🏽‍♂️ [@IoT-Club](https://jscoeiotclub.in/), Intern 👨🏽‍💻 [@Indihatt](https://indihatt.com/), Internee 👨🏽‍💼[@21ci](http://www.21ci.com/index.html) and a  Research Intern [@IntechOlympiad](https://portal.coepvlab.ac.in/InTechOlympiad/). Beside's Computer Science, I love photography.
