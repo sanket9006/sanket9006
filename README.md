@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Sanket_Patil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/imsivram1999/) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+
+
 ### Hey 👋🏽, I'm [Sanket!](https://www.sanketpatil.me) 
 
 <br/>
