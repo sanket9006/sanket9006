@@ -5,26 +5,11 @@
 
 <br/>
 
-
-<a href="https://twitter.com/SanketP12344827">
-  <img align="left" alt="Sanket Patil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sanket-patil-b4134362/">
-  <img align="left" alt="Sanket's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/Patil_Sanket">
-  <img align="left" alt="Sanket's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/____sanket____patil____/">
-  <img align="left" alt="Sanket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
 <br />
 
 Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India, currently, I'm a  Team Member 🙍🏽‍♂️ [@IoT-Club](https://jscoeiotclub.in/), Intern 👨🏽‍💻 [@Indihatt](https://indihatt.com/), Internee 👨🏽‍💼[@21ci](http://www.21ci.com/index.html) and a  Research Intern [@IntechOlympiad](https://portal.coepvlab.ac.in/InTechOlympiad/). Beside's Computer Science, I love photography.
 
-####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) 
+####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue)
   
 **Talking about Personal Stuffs:**
 
