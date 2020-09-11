@@ -30,10 +30,6 @@ Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket9006&show_icons=true&theme=radical)
-
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-
 **Achievement**  
 
 - DECOV 2020 [Code of Tigers] - 1st Prize - Education Domain 
@@ -42,5 +38,11 @@ Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India,
 - World Hackers - Best Try Award
 - Qwiklabs - Winner of the Week
 - Hour of Glass -Wolfram Award
+
+
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket9006&show_icons=true&theme=radical)
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+
 
 
