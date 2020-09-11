@@ -34,8 +34,13 @@ Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India,
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
+**Achievement**  
 
-
-
+- DECOV 2020 [Code of Tigers] - 1st Prize - Education Domain 
+- DSC BVP Manidesto - 1st Prize - Application Making
+- Hour of Glass - 1st Prize - AR/VR Domain - Certificate Not Received 
+- World Hackers - Best Try Award
+- Qwiklabs - Winner of the Week
+- Hour of Glass -Wolfram Award
 
 
