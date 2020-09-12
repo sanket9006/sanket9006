@@ -34,7 +34,7 @@ Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India,
 
 - DECOV 2020 [Code of Tigers] - 1st Prize - Education Domain 
 - DSC BVP Manidesto - 1st Prize - Application Making
-- Hack the Hour Glass - 1st Prize - AR/VR Domain - Certificate Not Received 
+- Hack the Hour Glass - 1st Prize - AR/VR Domain 
 - World Hackers - Best Try Award
 - Qwiklabs - Winner of the Week
 - Hack the Hour Glass - Wolfram Award
