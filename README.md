@@ -1,3 +1,11 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/sanket9006/sanket9006">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
 ### Hey 👋🏽, I'm [Sanket! - www.sanketpatil.me](https://www.sanketpatil.me)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9006" alt="sanket9006" /> </p> 
  
@@ -7,13 +15,7 @@
 
 <br/>
 
-<div align="center">
-	<br>
-	<a href="https://github.com/sanket9006/sanket9006/edit/master/README.md">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
+
 
 <br/>
 <br/>
