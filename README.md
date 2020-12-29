@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/sanket9006/sanket9006">
+	<a href="https://www.sanketpatil.me/">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
