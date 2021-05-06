@@ -35,18 +35,3 @@ Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Pune, India,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Achievement**  
-
-- DECOV 2020 [Code of Tigers] - 1st Prize - Education Domain 
-- DSC BVP Manidesto - 1st Prize - Application Making
-- Hack the Hour Glass - 1st Prize - AR/VR Domain 
-- World Hackers - Best Try Award
-- Qwiklabs - Winner of the Week
-- Hack the Hour Glass - Wolfram Award
-- Hack in India - Top 20 Teams
-
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket9006&show_icons=true&theme=radical)
-
-
-
-
