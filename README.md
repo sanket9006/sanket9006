@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://www.sanketpatil.me/">
+	<a href="https://www.sanketpatil.co/">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
