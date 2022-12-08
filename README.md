@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://www.sanketpatil.co/">
+	<a href="https://www.patilsanket.in/">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
